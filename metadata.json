@@ -1,0 +1,8 @@
+{
+  "name": "Jarvis AI Voice Assistant",
+  "description": "Interactive hands-free AI voice assistant featuring an audio-reactive monster avatar, live trading & news grounding, network marketing & online work database, emotion analysis, multilingual translation, memory retention, and full PWA offline support for Ahsan sir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
